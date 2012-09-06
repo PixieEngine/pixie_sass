@@ -4,8 +4,8 @@ require File.expand_path('../lib/pixie_sass/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Daniel X. Moore"]
   gem.email         = ["yahivin@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Common sass mixins for PixieEngine projects}
+  gem.summary       = %q{Common sass mixins for PixieEngine projects}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
